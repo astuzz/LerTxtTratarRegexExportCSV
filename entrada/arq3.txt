@@ -1,0 +1,21 @@
+Data: 09/12/2023
+Nome: Carlos Onkie Idade:42
+
+
+Data: 12/11/2023
+Nome: Monica Ponz Idade:42
+
+Data:23/11/2023
+Nome: Paulina Sabia Idade:46
+
+
+Data:03/12/2023
+Nome: Celia Voz 
+Idade:22
+Data:13/11/2023
+Nome: Suzana Casa Idade:41
+Data:23/11/2023
+Nome: Tito Molza Idade:38
+
+Data:13/11/2023
+Nome: Cezar Alfrod Idade:69
